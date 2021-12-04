@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mayankverma/CMPE-272/cmpe272demo/mlruns/0/793770fb99ac4c539969dab54c1d873e/artifacts
+end_time: 1638644330920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 793770fb99ac4c539969dab54c1d873e
+run_uuid: 793770fb99ac4c539969dab54c1d873e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638644326782
+status: 3
+tags: []
+user_id: mayankverma
